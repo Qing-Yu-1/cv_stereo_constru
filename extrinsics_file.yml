@@ -1,0 +1,11 @@
+%YAML:1.0
+extrin_R: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: d
+   data: [ -3.7e-004, 4.67e-003, -2.8e-004 ]
+extrin_T: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: d
+   data: [ -6.217496e+001, 2.4930e-001, 2.16749 ]
