@@ -1,3 +1,0 @@
-/home/qy/software/new_opencv_stereo_reconstru/CMakeFiles/edit_cache.dir
-/home/qy/software/new_opencv_stereo_reconstru/CMakeFiles/rebuild_cache.dir
-/home/qy/software/new_opencv_stereo_reconstru/CMakeFiles/stereo_piont_cloud.dir
